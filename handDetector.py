@@ -37,5 +37,7 @@ class handDetector():
                     cv2.circle(img, (cx, cy), 3, (255, 0, 255), cv2.FILLED)
                 if id == 8:
                     cv2.circle(img, (cx, cy), 3, (255, 255, 255), cv2.FILLED)
+
+                    
         return lmlist
 
