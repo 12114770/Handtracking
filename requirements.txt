@@ -1,0 +1,10 @@
+
+# To install libcamera-dev, run: sudo apt install libcamera-dev
+
+flask
+numpy
+picamera2
+mediapipe
+opencv-python
+smbus
+
